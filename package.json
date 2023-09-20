@@ -1,0 +1,22 @@
+{
+  "name": "@josephdaw/[repo]",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/josephdaw/[repo].git"
+  },
+  "keywords": [
+
+  ],
+  "author": "Joseph Daw",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/josephdaw/[repo]/issues"
+  },
+  "homepage": "https://github.com/josephdaw/[repo]#readme"
+}

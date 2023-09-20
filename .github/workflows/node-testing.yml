@@ -1,0 +1,29 @@
+name: Node.js CI
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+
+jobs:
+  build_and_test:
+    name: Build on ${{ matrix.os }} with Node ${{ matrix.node }}
+    strategy:
+      matrix:
+        os: [ubuntu-22.04]
+        node: [16.x, 18.x]
+    runs-on: ${{ matrix.os }}
+    steps:
+      - name: Checkout Codebase
+        uses: actions/checkout@v3
+
+      - name: Setup Node.js ${{ matrix.node }}
+        uses: actions/setup-node@v3
+        with:
+          node-version: ${{ matrix.node }}
+
+      - name: Install Dependencies
+        run: npm ci 
+
+      - name: Run Tests
+        run: npm test
