@@ -1,6 +1,6 @@
 # Authenticator
-[![npm (scoped)](https://img.shields.io/npm/v/%40josephdaw/authenticator
-)](https://www.npmjs.com/package/@josephdaw/authenticator)
+[![npm (scoped)](https://img.shields.io/npm/v/%40josephdaw/authenticator?logo=npm)
+](https://www.npmjs.com/package/@josephdaw/authenticator)
 ![GitHub](https://img.shields.io/github/license/josephdaw/authenticator)
 [![Node.js CI](https://github.com/josephdaw/authenticator/actions/workflows/node-testing.yml/badge.svg)](https://github.com/josephdaw/authenticator/actions/workflows/node-testing.yml)
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](code_of_conduct.md)
