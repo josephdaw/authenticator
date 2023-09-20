@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.0.1](https://github.com/josephdaw/authenticator/compare/v1.0.0...v1.0.1) (2023-09-20)
+
+
+### Bug Fixes
+
+* **Readme:** fixing NPM badge ([da16d8b](https://github.com/josephdaw/authenticator/commit/da16d8b66df4e3fd103b0d5241d03f669e22c1ca))
+* **Readme:** fixing title ([aa71d75](https://github.com/josephdaw/authenticator/commit/aa71d75578abd2f0233caa2e5a2e952346a454b3))
+
 ## 1.0.0 (2023-09-20)
 
 
