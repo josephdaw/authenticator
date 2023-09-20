@@ -1,22 +1,23 @@
 {
-  "name": "@josephdaw/[repo]",
+  "name": "@josephdaw/authenticator",
   "version": "1.0.0",
-  "description": "",
+  "description": "a basic authenticator module for use in a node.js application",
   "main": "index.js",
   "scripts": {
     "test": "jest"
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/josephdaw/[repo].git"
+    "url": "git+ssh://git@github.com/josephdaw/authenticator.git"
   },
-  "keywords": [
-
-  ],
+  "keywords": [],
   "author": "Joseph Daw",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/josephdaw/[repo]/issues"
+    "url": "https://github.com/josephdaw/authenticator/issues"
   },
-  "homepage": "https://github.com/josephdaw/[repo]#readme"
+  "homepage": "https://github.com/josephdaw/authenticator#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
 }
