@@ -1,4 +1,4 @@
-# HTTP wrapper
+# Authenticator
 [![npm (scoped)](https://img.shields.io/npm/v/%40josephdaw/authenticator
 )](https://www.npmjs.com/package/@josephdaw/authenticator)
 ![GitHub](https://img.shields.io/github/license/josephdaw/authenticator)
