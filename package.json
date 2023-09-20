@@ -1,6 +1,6 @@
 {
   "name": "@josephdaw/authenticator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "a basic authenticator module for use in a node.js application",
   "main": "index.js",
   "scripts": {
