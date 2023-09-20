@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.2](https://github.com/josephdaw/authenticator/compare/v1.0.1...v1.0.2) (2023-09-20)
+
+
+### Bug Fixes
+
+* **Readme:** adding npm logo to badge ([2428ef4](https://github.com/josephdaw/authenticator/commit/2428ef4a3710d3d09ab04b79548fb94041b9fd0f))
+
 ## [1.0.1](https://github.com/josephdaw/authenticator/compare/v1.0.0...v1.0.1) (2023-09-20)
 
 
